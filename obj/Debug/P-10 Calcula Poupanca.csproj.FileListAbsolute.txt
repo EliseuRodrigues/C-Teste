@@ -1,0 +1,6 @@
+C:\Users\Eliseu.Rodrigues\source\repos\_4_ConversoesEOutrosTipoNumericos\P-10 Calcula Poupanca\obj\Debug\P-10 Calcula Poupanca.csprojAssemblyReference.cache
+C:\Users\Eliseu.Rodrigues\source\repos\_4_ConversoesEOutrosTipoNumericos\P-10 Calcula Poupanca\bin\Debug\P-10 Calcula Poupanca.exe.config
+C:\Users\Eliseu.Rodrigues\source\repos\_4_ConversoesEOutrosTipoNumericos\P-10 Calcula Poupanca\bin\Debug\P-10 Calcula Poupanca.exe
+C:\Users\Eliseu.Rodrigues\source\repos\_4_ConversoesEOutrosTipoNumericos\P-10 Calcula Poupanca\bin\Debug\P-10 Calcula Poupanca.pdb
+C:\Users\Eliseu.Rodrigues\source\repos\_4_ConversoesEOutrosTipoNumericos\P-10 Calcula Poupanca\obj\Debug\P-10 Calcula Poupanca.exe
+C:\Users\Eliseu.Rodrigues\source\repos\_4_ConversoesEOutrosTipoNumericos\P-10 Calcula Poupanca\obj\Debug\P-10 Calcula Poupanca.pdb
